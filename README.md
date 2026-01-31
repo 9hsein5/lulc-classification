@@ -17,6 +17,10 @@ Part 2: <a target="_blank" href="https://colab.research.google.com/github/climat
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+Combined (Uganda-focused): <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_uganda.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 Estimated time to execute end-to-end: 1 hour
 
 ## Contribute to this tutorial
